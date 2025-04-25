@@ -1,0 +1,60 @@
+# Node modules
+/node_modules/
+
+# Build output
+/dist/
+/build/
+
+# Local environment files
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Testing
+/coverage/
+
+# Dependencies
+/pnpm-lock.yaml
+/package-lock.json
+/yarn.lock
+
+# Compiled source #
+###################
+/*.class
+/*.psess
+
+# Temporary files
+.DS_Store
+Thumbs.db
+.idea/
+*.swp
+
+# Visual Studio Code
+.vscode/
+
+# React Native
+react-native-debug.log
+
+# Operating system files
+*.bak
+*.tmp
+*.orig
+
+# Compiled files
+*.class
+*.o
+*.out
+
+# Miscellaneous files
+*.tgz
+
+# Other
+.sass-cache/
+.cache/
